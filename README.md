@@ -99,7 +99,7 @@ The notebook `ts_gas_forecasting.ipynb` is structured as follows:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shawndarm/TimeSeries_Forecasting_Airport.git
 cd gas-consumption-forecasting
 ```
 2. Install the required dependencies:
