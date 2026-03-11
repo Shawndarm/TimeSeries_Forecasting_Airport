@@ -1,6 +1,3 @@
-# TimeSeries_Forecasting_Airport
-
-
 # Gas Consumption Forecasting – Time Series Analysis
 
 ## Project Overview
