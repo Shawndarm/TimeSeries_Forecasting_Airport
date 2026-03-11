@@ -72,16 +72,65 @@ Several forecasting approaches are implemented and evaluated:
 
 ---
 
-## Technologies Used
 
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- Statsmodels
-- Scikit-learn
+## Key Steps in the Notebook
+
+The notebook `ts_gas_forecasting.ipynb` is structured as follows:
+
+1. **Abstract**
+2. **Libraries and environment setup**
+3. **Exploratory Data Analysis**
+   - Data understanding
+   - Data preprocessing
+   - Univariate and bivariate analysis
+4. **Time Series Analysis**
+   - Imputation of missing observations
+   - Stationarity analysis
+   - Time series decomposition
+5. **Forecasting**
+   - ARX models
+   - ADL models
+   - Kalman filtering
+   - Out-of-sample forecasting
 
 ---
 
-## Project Structure
+## How to Run the Project
+
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd gas-consumption-forecasting
+```
+2. Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+4. Open and run:
+```bash
+notebooks/ts_gas_forecasting.ipynb
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
